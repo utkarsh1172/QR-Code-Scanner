@@ -116,12 +116,12 @@
   .buttons button:active{
     transform: scale(0.95);
   }
-  @media (max-width: 450px) {
+  @media (max-width: 900px) {
     .wrapper{
-      padding: 25px;
-      height: 260px;
+      padding: 15px;
+      height: 250px;
     }
     .wrapper.active{
-      height: 520px;
+      height: 120px;
     }
   }
