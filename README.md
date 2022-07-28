@@ -1,0 +1,1 @@
+# QR-Code-ScannerA project based on scanning and detecting qr codes and with inclusion of pose estimation for optimization in detection of qr code and displaying a pyramid over it virtually and storing the read data from qr code.
